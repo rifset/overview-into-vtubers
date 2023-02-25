@@ -9,13 +9,17 @@ VTubers, or Virtual YouTubers, are online personas who use virtual avatars or ch
 
 There are two main divisions in the VTubers based on for whom they worked to: VTuber with an agency (also called Corporate VTuber) and Indie Vtuber. Corporate VTubers are managed by a company or agency that provides them with supports and resources, while Indie VTubers manage their works on their own. Corporate VTubers often have access to professional equipments and studios, as well as support for marketing, promotion, and audience engagement from their agency. 
 
-![plot-subscriber-count-by-agencies.png](plot-subscriber-count-by-agencies.png)
-*Top 5 most subscribed VTubers agencies*
+<p align = "center">
+  <img src="plot-subscriber-count-by-agencies.png" alt="Top 5 most subscribed VTubers agencies" width = "75%" />
+  </br> <em> Top 5 most subscribed VTubers agencies </em>
+</p>
 
 They may also have access to collaborations and partnerships that an Indie VTuber might not be able to secure by themselves. However, Indie VTubers, have absolute control over their contents and do not obliged to share their earnings or revenue with an agency. Nonetheless, there are many Indie VTubers, such as [Pmaru-sama](https://www.youtube.com/@Pmarusama) and [Monarch](https://www.youtube.com/@LeeandLie), who gained popularity as much as Corporate VTubers.
 
-![plot-most-subsribed-by-type.png](plot-most-subsribed-by-type.png)
-*Most subscribed VTubers based on type*
+<p align = "center">
+  <img src="plot-most-subsribed-by-type.png" alt="Most subscribed VTubers based on type" width = "75%" />
+  </br> <em> Most subscribed VTubers based on type </em>
+</p>
 
 Some VTubers also entitled themselves as VArtist and VSinger. VArtist and VSinger are two subcategories of VTuber that refers to the different types of contents they created. VArtists and VSingers have specific areas of focus and expertise that differentiate them from other types of VTubers. VArtists (Virtual Artists) are VTubers who create art-related contents such as drawing, painting, or digital arts. While, VSingers (Virtual Singers), are VTubers who specialize in singing and music-related contents.
 
@@ -31,8 +35,10 @@ One thing VTubers have in common is that they all use anime-themed models for th
 
 hololive ID, or hololive Indonesia, is one of the international branches of hololive Production. It was established in September 2020, and currently has 9 VTuber talents across three generations.
 
-![plot-holoid-channel-stats.png](plot-holoid-channel-stats.png)
-*Hololive ID talents’ channel statistics*
+<p align = "center">
+  <img src="plot-holoid-channel-stats.png" alt="hololive ID talents’ channel statistics" width = "75%" />
+  </br> <em> hololive ID talents’ channel statistics </em>
+</p>
 
 As of July 2022, the 3 topmost subscribed hololive ID VTubers are Kobo Kanaeru, Kureiji Ollie, and Moona Hoshinova. While Moona (1st gen) and Ollie (2nd gen) debuted in 2020, Kobo (3rd gen) secured first place within less than a year of her debut in 2022. Video count-wise (including shorts and live archives), Reine (2nd gen) and Risu (1st gen) are in first and second place respectively.
 
@@ -44,13 +50,17 @@ Most of the VTubers do live streaming as their main content. Through live stream
 
 How about hololive ID’s live streaming and chat statistics? Take a look at the overview below.
 
-![plot-holoid-chat-stats.png](plot-holoid-chat-stats.png)
-*hololive ID talents’ live streaming chat statistics*
+<p align = "center">
+  <img src="plot-holoid-chat-stats.png" alt="hololive ID talents’ live streaming chat statistics" width = "75%" />
+  </br> <em> hololive ID talents’ live streaming chat statistics </em>
+</p>
 
 In terms of monthly average chats and chatters count during live streaming, Kobo surpassed all of the other hololive ID talents with a huge gap. You might also notice that Kaela tends to get more chats from relatively fewer chatters, and Ollie is the opposite of it.
 
-![plot-holod-chat-growth.png](plot-holod-chat-growth.png)
-*hololive ID talents’ live streaming chats growth*
+<p align = "center">
+  <img src="plot-holod-chat-growth.png" alt="hololive ID talents’ live streaming chats growth" width = "75%" />
+  </br> <em> hololive ID talents’ live streaming chats growth </em>
+</p>
 
 Almost every talent has positive growth regarding their chats and chatters count during live streaming. As for the 3rd gen (Kaela, Kobo, and Zeta) the data displayed above might be biased due to lack of data, which only shown for 5 months long.
 
@@ -58,18 +68,24 @@ Almost every talent has positive growth regarding their chats and chatters count
 
 YouTube offers a feature to help content creator build their community as well as encourage users to support their favorite content creator. In the context of VTubers, channel membership allows viewers to support their favorite VTubers by paying a monthly fee in exchange for various perks and benefits. These perks can include access to exclusive content, badges, emojis, and other special features that are only available to its members. Becoming a member of a VTuber's channel is entirely optional, and viewers can choose to join or leave at any time.
 
-![membership-preview.jpeg](membership-preview.jpeg)
-*Kobo Kanaeru’s channel membership preview*
+<p align = "center">
+  <img src="membership-preview.jpeg" alt="Kobo Kanaeru’s channel membership preview" width = "50%" />
+  </br> <em> Kobo Kanaeru’s channel membership preview </em>
+</p>
 
 So, how does channel membership affect the statistics?
 
-![plot-holoid-member-chat-stats.png](plot-holoid-member-chat-stats.png)
-*hololive ID talents’ live streaming chat from members statistics*
+<p align = "center">
+  <img src="plot-holoid-member-chat-stats.png" alt="hololive ID talents’ live streaming chat from members statistics" width = "75%" />
+  </br> <em> hololive ID talents’ live streaming chat from members statistics </em>
+</p>
 
 Although Kobo’s position is intact, the position for mid-tier talents have shifted. For instance, Moona and Reine, both tend to have a bigger ratio of chats and chatters count from members during live stream than its overall average.
 
-![plot-holoid-avg-chat-person.png](plot-holoid-avg-chat-person.png)
-*hololive ID talents’ live streaming chat from members and overall comparison*
+<p align = "center">
+  <img src="plot-holoid-avg-chat-person.png" alt="hololive ID talents’ live streaming chat from members and overall comparison" width = "75%" />
+  </br> <em> hololive ID talents’ live streaming chat from members and overall comparison </em>
+</p>
 
 Surprisingly, Kaela’s channel members have the highest average chats count per person, followed by Reine and Zeta in the 2nd and 3rd position. Kobo, on the other hand, has a slightly below-average chats rate though she has the highest average chats and chatters count during live streaming for both overall and member-only statistics.
 
@@ -78,21 +94,25 @@ Surprisingly, Kaela’s channel members have the highest average chats count per
 YouTube provides another method to allow users to support their favorite content creator with the Super Chat feature. This feature lets live streamer’s viewers support the streamer directly by purchasing live chat messages with real money. The purchased live chat messages are highlighted and pinned to the top of the chat for a certain amount of time, depending on the amount of money they paid. VTubers and all live streamers in general, would most likely read the Super Chat messages and respond to them during the stream, giving the viewer a chance to be noticed.
 
 <p align = "center">
-<img src="youtube-sc.png" alt="YouTube super chat tiers and advantages list" width = "60%" />
-</br> <em> YouTube super chat tiers and advantages list [3] </em>
+  <img src="youtube-sc.png" alt="YouTube super chat tiers and advantages list" width = "60%" />
+  </br> <em> YouTube super chat tiers and advantages list [3] </em>
 </p>
 
 In a comparison of similar features, Twitch has the Bits feature. Twitch Bits serves a similar purpose to support users’ favorite streamers during a live stream. Twitch Bits is a virtual currency that viewers can purchase and then use to send Cheer messages (similar to YouTube Super Chat) during a stream. Although they are similar in terms of functionality, YouTube takes more revenue share from Super Chat than Twitch takes from Bits purchases. By the time this article was written, YouTube takes 30% of Super Chat revenue [4]. Twitch, on the other hand, takes around 29% of Bits purchases or even less when users purchased a large number of Bits [5].
 
 How much did hololive ID VTubers earned from Super Chat?
 
-![plot-holoid-avg-sc-amount.png](plot-holoid-avg-sc-amount.png)
-*hololive ID talents’ live streaming super chats amount statistics*
+<p align = "center">
+  <img src="plot-holoid-avg-sc-amount.png" alt="hololive ID talents’ live streaming super chats amount statistics" width = "75%" />
+  </br> <em> hololive ID talents’ live streaming super chats amount statistics </em>
+</p>
 
 Zeta, Ollie, and Kaela have the highest average Super Chats earnings with more than 1M Japanese Yen per month or roughly Rp110.000.000 (assuming 1 JPY = 110 IDR). Numbers mentioned is the gross values before YouTube’s cut and other possible deductions.
 
-![plot-holoid-superchat-stats.png](plot-holoid-superchat-stats.png)
-*hololive ID talents’ live streaming super chat statistics*
+<p align = "center">
+  <img src="plot-holoid-superchat-stats.png" alt="hololive ID talents’ live streaming super chat statistics" width = "75%" />
+  </br> <em> hololive ID talents’ live streaming super chat statistics </em>
+</p>
 
 Another view we can observe is both Kaela and Zeta have the highest average Super Chats amount per person. In contrast, Kobo has the smallest average Super Chats amount per person (less than 1500 JPY) though she has the highest average Super Chatters count per month. Looking back, Kaela and Zeta share similar attributes for not only having high average chats per member, but also having high average super chats count and earnings. This might indicate that Kaela’s and Zeta’s audiences are stickier and more loyal than the other talents’ audiences. In the marketing field, having this particular advantage is great since it can lead to potential business opportunities.
 
@@ -102,8 +122,10 @@ In general, most VTubers audiences are highly supportive and enthusiastic, as th
 
 Take a look at these numbers.
 
-![plot-holoid-audience-sentiment.png](plot-holoid-audience-sentiment.png)
-*hololive ID talents’ audience sentiment*
+<p align = "center">
+  <img src="plot-holoid-audience-sentiment.png" alt="hololive ID talents’ audience sentiment" width = "75%" />
+  </br> <em> hololive ID talents’ audience sentiment </em>
+</p>
 
 The highest banned chatters rate during live streaming was taken by Kaela’s audiences, with roughly 47 people banned per 10.000 people per month. Live chatters could be banned due to violation of live streaming chat rules and guidelines. This might be ironic since Kaela also has the highest average chats per person during live streaming. Risu has the highest deleted chats rate during live streaming with 107 chats deleted per 100.000 live chats per month. Deleted chats shared the same reason as banned chatters, such as containing hate speech, the use of offensive language, having toxic sentiments, or might be depending on the live stream chat moderator’s judgment.
 
@@ -140,8 +162,10 @@ Market positioning can be represented graphically using tools such as perceptual
 
 Using the attributes mentioned above, here is the biplot analysis for hololive ID VTubers.
 
-![plot-pca-biplot-result.png](plot-pca-biplot-result.png)
-*hololive ID talents’ biplot positioning map*
+<p align = "center">
+  <img src="plot-pca-biplot-result.png" alt="hololive ID talents’ biplot positioning map" width = "75%" />
+  </br> <em> hololive ID talents’ biplot positioning map </em>
+</p>
 
 - **Kobo Kanaeru** is positioned as having strong chatters engagement and chatters reach, and also high growth in both attributes. As a newcomer in hololive ID, Kobo successfully derived a differentiation of her image in the positioning map. This might be due to her character’s behavior and uniqueness which made her gain many followers and engagement within a short time.
 - **Kaela Kovalskia** and **Vestia Zeta** have similar strong attributes (shown by their relatively close positions) which are related to interaction from members as well as overall chatters. It seems their audiences are quite enthusiastic towards their live streams, also it might be because of their unique characteristics during live streaming which made their viewers behave like so.
