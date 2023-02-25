@@ -77,8 +77,10 @@ Surprisingly, Kaela’s channel members have the highest average chats count per
 
 YouTube provides another method to allow users to support their favorite content creator with the Super Chat feature. This feature lets live streamer’s viewers support the streamer directly by purchasing live chat messages with real money. The purchased live chat messages are highlighted and pinned to the top of the chat for a certain amount of time, depending on the amount of money they paid. VTubers and all live streamers in general, would most likely read the Super Chat messages and respond to them during the stream, giving the viewer a chance to be noticed.
 
-![youtube-sc](youtube-sc.png)
-*YouTube super chat tiers and advantages list [3]*
+<p align = "center">
+<img src="youtube-sc.png" alt="YouTube super chat tiers and advantages list" width = "60%" />
+</br> <em> YouTube super chat tiers and advantages list [3] </em>
+</p>
 
 In a comparison of similar features, Twitch has the Bits feature. Twitch Bits serves a similar purpose to support users’ favorite streamers during a live stream. Twitch Bits is a virtual currency that viewers can purchase and then use to send Cheer messages (similar to YouTube Super Chat) during a stream. Although they are similar in terms of functionality, YouTube takes more revenue share from Super Chat than Twitch takes from Bits purchases. By the time this article was written, YouTube takes 30% of Super Chat revenue [4]. Twitch, on the other hand, takes around 29% of Bits purchases or even less when users purchased a large number of Bits [5].
 
@@ -157,7 +159,7 @@ VTubers as influencers might sound naive back then, but nowadays their presence 
 
 ### Data Source
 
-Y. Uechi, ‘VTuber 1B: Large-scale Live Chat and Moderation Events Dataset’. Feb-2022.
+Uechi Y. (2022, February). VTuber 1B Elements: Live Chat Statistics. Version 7. Retrieved February 7, 2023 from [https://www.kaggle.com/datasets/uetchy/vtuber-livechat-elements](https://www.kaggle.com/datasets/uetchy/vtuber-livechat-elements)
 
 ### General References
 
