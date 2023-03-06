@@ -3,6 +3,25 @@
 ![cover.jpg](cover.jpg)
 *Illustration assets by [hololive Production](https://en.hololive.tv/), [Crunchyroll](https://www.crunchyroll.com/it/anime-news/2021/10/06/vshojo-to-partner-with-nippon-tvs-v-clan-network), and LERTNITIVANIT on [Vecteezy](https://www.vecteezy.com/vector-art/3127954-abstract-template-blue-background-white-squares)*
 
+## Table of Content
+
+  * [What are VTubers?](#what-are-vtubers)
+  * [VTuber as Influencer](#vtuber-as-influencer)
+  * [Introduction to hololive ID](#introduction-to-hololive-id)
+    + [Live Streaming and Chats](#live-streaming-and-chats)
+    + [Membership](#membership)
+    + [Live Superchats](#live-superchats)
+    + [Audience Sentiment](#audience-sentiment)
+  * [hololive ID VTubers in the Influencer Market](#hololive-id-vtubers-in-the-influencer-market)
+    + [Positioning, Principal Component Analysis (PCA), and Biplot](#positioning-principal-component-analysis-pca-and-biplot)
+    + [Biplot Result](#biplot-result)
+  * [Closing Thoughts](#closing-thoughts)
+  * [References](#references)
+    + [Data Source](#data-source)
+    + [General References](#general-references)
+    
+---
+
 ## What are VTubers?
 
 VTubers, or Virtual YouTubers, are online personas who use virtual avatars or characters to create content on platforms such as YouTube or Twitch. These avatars are often generated using motion capture technology or real-time animation software. [Kizuna AI](https://www.youtube.com/c/AIChannel) is widely considered to be the first popular VTuber. She was one of the first VTubers to gain widespread recognition, and is often credited with helping to bring attention to the VTuber phenomenon both within Japan and around the world.
